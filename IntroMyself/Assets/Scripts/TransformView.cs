@@ -19,9 +19,9 @@ public class TransformView : MonoBehaviour
     void Update()
     {
         transform.localEulerAngles = new Vector3(0.0f, RotateSlider.value, 0.0f);
-        transform.localEulerAngles = new Vector3(ScaleSlider.value, ScaleSlider.value, ScaleSlider.value);
+        transform.localScale = new Vector3(ScaleSlider.value, ScaleSlider.value, ScaleSlider.value);
     }
-
+    
     public void AdjustRotation(float newValue){ }
     public void AdjustScale(float newValue) { }
 }
