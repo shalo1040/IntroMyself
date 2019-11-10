@@ -8,7 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Scene00_Main_20191107.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene01_Like_20191107.unity
     guid: 094deccd5fcef6d478a2dbbc804b3b94
+  - enabled: 0
+    path: Assets/Scenes/Scene02_Basic_20191110.unity
+    guid: dd20d8146b1693b4394061f9bbd89fdc
+  - enabled: 1
+    path: Assets/Scenes/Scene03_Future_20191110.unity
+    guid: 1434227b51117a4469981990ae1413de
   m_configObjects: {}
