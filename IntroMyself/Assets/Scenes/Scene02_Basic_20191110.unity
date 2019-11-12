@@ -604,7 +604,7 @@ GameObject:
   - component: {fileID: 1021693231}
   - component: {fileID: 1021693230}
   m_Layer: 5
-  m_Name: Text (1)
+  m_Name: Info
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -626,7 +626,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 253, y: -94}
+  m_AnchoredPosition: {x: 559, y: -133}
   m_SizeDelta: {x: 2520.4, y: 1000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1021693230
@@ -860,7 +860,7 @@ GameObject:
   - component: {fileID: 1647351526}
   - component: {fileID: 1647351525}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -918,7 +918,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Basic
+  m_Text: Basic Information
 --- !u!222 &1647351526
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -980,7 +980,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9103774, g: 0.9756942, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
